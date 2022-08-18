@@ -1,6 +1,8 @@
 #! /bin/bash
 
+# space separated list with full path of mounts to check
 MOUNTSLIST="/home/pi/downloads /home/pi/filmes /home/pi/series /home/pi/docker_backup"
+# email to receive notification on mount error
 EMAIL="pedro.roldan@gmail.com"
 
 
