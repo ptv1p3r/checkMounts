@@ -1,6 +1,8 @@
 # checkMounts
 Bash script that checks for mounts on linux and remounts if droped
 
+- checkMounts.sh as executable -> chmod +x
+
 Dependencies:
 - ssmtp
 - mailutils
