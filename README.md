@@ -6,4 +6,4 @@ Dependencies:
 - mailutils
 
 Activated on crontab for every 5m
-- */5 * * * * sudo ./checkMounts.sh > /dev/null
+- */5 * * * * sudo /fullPathTo/checkMounts.sh > /dev/null
